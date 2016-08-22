@@ -78,3 +78,7 @@ pre {
         font-size: 72px;
     }
 }
+
+.main-list > h3 {
+    font-family: 'Merienda One', cursive;
+}
